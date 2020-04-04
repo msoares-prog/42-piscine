@@ -1,0 +1,5 @@
+Credentials cache: API:7032A6C4-C657-4005-ABC7-2E65161B6092
+        Principal: msoares@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 18 17:36:22 2019  Nov 25 17:36:20 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
