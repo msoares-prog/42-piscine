@@ -17,6 +17,7 @@ is the last stage in the selection process for becoming a "cadet".
 
 ### Download
 ***
+Feel free to download the project:
 ```
 git clone git@github.com:msoares-prog/42-piscine.git
 ```
