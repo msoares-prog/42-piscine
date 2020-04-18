@@ -58,6 +58,6 @@ Guide for Piscine:
 ### Contact
 If you have any question, you can contact me:  
 
-42 slack: 42saopaulo_msoares;    
-Email: mahh.soares3@gmail.com
+* 42 slack: 42saopaulo_msoares;    
+* Email: mahh.soares3@gmail.com
 
