@@ -26,6 +26,6 @@ git clone git@github.com:msoares-prog/42-piscine.git
 I wrote this topic to help the *'pisciners'* with some tips and links that i think to be helpfull or helped me when I was a *'pisciner'*.
 To started, you should learn a little about VIM ( text editor that we use at 42.):
 * [Interactive VIM tutorial](https://www.openvim.com/);
-* [.vimrc](https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/).
+* [.vimrc](https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/).  
 You can also try VSCode:
 * [Setting up VSCode for C](https://www.youtube.com/watch?v=mWzOu-_VNAk) - video
