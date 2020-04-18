@@ -33,5 +33,6 @@ You can also try VSCode:
 * [Setting up VSCode for C](https://www.youtube.com/watch?v=mWzOu-_VNAk) - video
 
 If you know nothing about GIT:  
-* Git is the leading version control tool, and you are going to be using GIT for the rest of your trajetory at 42.  *
+*Git is the leading version control tool, and you are going to be using GIT for the rest of your trajetory at 42.*
+
 * [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
