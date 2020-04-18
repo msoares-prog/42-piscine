@@ -51,4 +51,9 @@ C (Programming Language):
 * [Essencial C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (free pdf);
 * [Course - eXcript](http://excript.com/curso-c.html) - PT/BR.
 
+Guide for Piscine:
+* [O Guia (In)definitivo do Piscineiro das Galáxias.](https://medium.com/@italobalbino/o-guia-in-definitivo-do-piscineiro-das-gal%C3%A1xias-4f3a3baa6327) - PT/BR;
+* [Curriculum](https://github.com/psprawka/42_Projects).
+
+
 
