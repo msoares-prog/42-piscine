@@ -56,7 +56,8 @@ Guide for Piscine:
 * [Curriculum/Branchs/Galaxy](https://github.com/psprawka/42_Projects);
 
 ### Contact
-If you have some doubts yout can try to contact me:  
+If you have some doubts, you can try to contact me:  
+
 42 slack: 42saopaulo-msoares;  
 
 Or, just email me:  
