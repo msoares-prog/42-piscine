@@ -33,7 +33,7 @@ You can also try VSCode:
 * [Setting up VSCode for C](https://www.youtube.com/watch?v=mWzOu-_VNAk) - video
 
 If you know nothing about GIT:  
-*Git is the leading version control tool, and you are going to be using GIT for the rest of your trajetory at 42.*
+*Git is the leading version control tool, and you are going to be using GIT for the rest of your trajectory at 42.*
 
 * [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
 
@@ -53,7 +53,10 @@ C (Programming Language):
 
 Guide for Piscine:
 * [O Guia (In)definitivo do Piscineiro das Galáxias.](https://medium.com/@italobalbino/o-guia-in-definitivo-do-piscineiro-das-gal%C3%A1xias-4f3a3baa6327) - PT/BR;
-* [Curriculum/Branchs/Galaxy](https://github.com/psprawka/42_Projects).
+* [Curriculum/Branchs/Galaxy](https://github.com/psprawka/42_Projects);
 
-
+If you have some doubts yout can try to contact me:  
+* 42 slack: 42saopaulo-msoares;
+Or, just email me:  
+mahh.soares3@gmail.com
 
