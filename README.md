@@ -36,3 +36,9 @@ If you know nothing about GIT:
 *Git is the leading version control tool, and you are going to be using GIT for the rest of your trajetory at 42.*
 
 * [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
+
+Shell Script:
+* [Introduction to ShellScript](http://linuxcommand.org/lc3_wss0020.php);
+* [Beginner's guide](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/);
+* [Beginner's handbook](http://www.freeos.com/guides/lsst/);
+* [UNIX-Concepts-and-Applications](https://github.com/nimeshneema/UNIX-Concepts-and-Applications) - book;
