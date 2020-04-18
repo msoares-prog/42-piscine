@@ -11,10 +11,10 @@
 ### Experience
 
 ### Technology
-*  C (Programming Language);
-* [ShellScript](https://www.shellscript.sh/);
-* [GIT](https://git-scm.com/);
-* [VIM](https://www.vim.org/).
+*  C (Programming Language)
+* [ShellScript](https://www.shellscript.sh/)
+* [GIT](https://git-scm.com/)
+* [VIM](https://www.vim.org/)
 
 ### Download
 Feel free to download the project:
