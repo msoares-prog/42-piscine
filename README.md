@@ -46,9 +46,9 @@ Shell Script:
 C (Programming Language):
 * The C Programming Language (2nd Edition) - Brian W. Kernighan and Dennis M. Ritchie;
 * C: A Reference Manual (5th Edition) - Samuel P. Harbison and Guy R. Steele (2002);
-* [The new C standard](http://www.knosof.co.uk/cbook/cbook.html) - free pdf;
+* [The new C standard](http://www.knosof.co.uk/cbook/cbook.html) (free pdf);
 * Algorithms in C - Robert Sedgewick (1997);
-* [Essencial C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - free pdf;
+* [Essencial C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (free pdf);
 * [Course - eXcript](http://excript.com/curso-c.html) - PT/BR.
 
 
