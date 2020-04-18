@@ -41,4 +41,14 @@ Shell Script:
 * [Introduction to ShellScript](http://linuxcommand.org/lc3_wss0020.php);
 * [Beginner's guide](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/);
 * [Beginner's handbook](http://www.freeos.com/guides/lsst/);
-* [UNIX-Concepts-and-Applications](https://github.com/nimeshneema/UNIX-Concepts-and-Applications) - book;
+* [UNIX-Concepts-and-Applications](https://github.com/nimeshneema/UNIX-Concepts-and-Applications) - book.
+
+C (Programming Language):
+* The C Programming Language (2nd Edition) - Brian W. Kernighan and Dennis M. Ritchie;
+* C: A Reference Manual (5th Edition) - Samuel P. Harbison and Guy R. Steele (2002);
+* [The new C standard](http://www.knosof.co.uk/cbook/cbook.html) - free pdf;
+* Algorithms in C - Robert Sedgewick (1997);
+* [Essencial C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - free pdf;
+* [Course - eXcript](http://excript.com/curso-c.html) - PT/BR.
+
+
