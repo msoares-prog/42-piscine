@@ -35,7 +35,7 @@ If you know nothing about GIT:
 
 * [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
 
-___Shell Script:___
+~Shell Script:~
 * [Introduction to ShellScript](http://linuxcommand.org/lc3_wss0020.php);
 * [Beginner's guide](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/);
 * [Beginner's handbook](http://www.freeos.com/guides/lsst/);
