@@ -51,7 +51,7 @@ C (Programming Language):
 
 Guide for Piscine:
 * [O Guia (In)definitivo do Piscineiro das Galáxias.](https://medium.com/@italobalbino/o-guia-in-definitivo-do-piscineiro-das-gal%C3%A1xias-4f3a3baa6327) - PT/BR;
-* [Curriculum/Branchs/Galaxy](https://github.com/psprawka/42_Projects);
+* [Curriculum](https://github.com/psprawka/42_Projects) - A manual reference for all 42 projects;
 
 ### Contact
 If you have any question, you can contact me:  
