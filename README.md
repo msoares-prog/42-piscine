@@ -8,6 +8,11 @@
 ### About 42sp
 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. You can take a look [here](https://www.42sp.org.br/) to know more about it, this link is a web page that belongs to São Paulo's campus, but they are many others campus around the world, just google it.
 
+### Experience
+The Piscine was a really tough challenge, drove me at the edge of myself and show me that I can take more than I
+thought. I learned how to learn and it is a knowledge that no where else I'll learn so quickly, and nobody is going to
+take that from me. You can read more about how was my experience [here]()
+
 ### Technology
 *  C (Programming Language)
 * [ShellScript](https://www.shellscript.sh/)
