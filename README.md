@@ -11,7 +11,7 @@
 ### Experience
 The Piscine was a really tough challenge, drove me at the edge of myself and show me that I can take more than I
 thought. I learned how to learn and it is a knowledge that nowhere I'll learn so quickly, and nobody is going to
-take that from me. You can read more about how was my whole experience [here]().
+take that from me. You can read more about how was my whole experience [here](https://medium.com/techworld42/my-piscine-experience-at-42sp-ab2592d723c3).
 
 ### Technology
 *  C (Programming Language)
